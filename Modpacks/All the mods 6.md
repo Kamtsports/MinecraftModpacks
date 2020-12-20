@@ -48,7 +48,7 @@
 
 17. Bei Tetra auf add klicken
 
-	![Tetra](images/Tetra.png)
+	![Tetra](/images/Tetra.png)
 	
 18. Dependencies mit installieren
 
