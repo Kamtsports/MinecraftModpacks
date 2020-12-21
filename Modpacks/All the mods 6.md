@@ -7,7 +7,8 @@
 
 4. Settings Tab auswählen
 
-5. Im Java/Minecraft Untertab mehr Ram/Arbeitsspeicher zuweisen (min 8 GB)
+5. Im Java/Minecraft Untertab mehr Ram/Arbeitsspeicher zuweisen 
+	(8 GB sollten passen, zum Teil crashed es bei mehr)
 
 6. Im selben Tab Java Parameter hinzufügen
 	
