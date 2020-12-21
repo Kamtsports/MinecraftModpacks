@@ -1,4 +1,4 @@
-1. ATLauncher herunterladen
+1. ATLauncher herunterladen und in einen Ordner packen
 	https://atlauncher.com/downloads
 
 2. ATLauncher öffnen
