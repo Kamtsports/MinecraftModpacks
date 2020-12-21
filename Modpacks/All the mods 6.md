@@ -18,7 +18,7 @@
 	-XX:MaxGCPauseMillis=50 
 	-XX:G1HeapRegionSize=32M
 	
-	![Java Args](/images/JavaArgs.png)
+	![Java Args](/images/ATM6/JavaArgs.png)
 	
 7. Auf Save klicken
 	
@@ -30,7 +30,7 @@
 	
 	https://www.curseforge.com/minecraft/modpacks/all-the-mods-6
 	
-	![URL](/images/URL.png)
+	![URL](/images/ATM6/URL.png)
 	
 11. Add anklicken
 
@@ -51,7 +51,7 @@
 
 17. Bei Tetra auf add klicken
 
-	![Tetra](/images/Tetra.png)
+	![Tetra](/images/ATM6/Tetra.png)
 	
 18. Dependencies mit installieren
 
