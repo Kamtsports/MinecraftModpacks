@@ -3,7 +3,7 @@
 
 2. ATLauncher öffnen
 
-3. Im Accounts Tab den eigenen Mincraftaccount hinzufügen
+3. Im Accounts Tab den eigenen Minecraftaccount hinzufügen
 
 4. Settings Tab auswählen
 
@@ -53,7 +53,7 @@
 
 	![Tetra](/images/ATM6/Tetra.png)
 	
-18. Dependencies mit installieren
+18. Dependencies mitinstallieren
 
 19. Play anklicken
 
@@ -61,4 +61,4 @@
 
 21. Multiplayer anklicken und die Server-Ip einspeichern
 
-
+22.Joinen und Spaß haben
