@@ -7,7 +7,7 @@
 
 4. Settings Tab auswählen
 
-5. Im Java/Minecraft unter Tab mehr Ram/Arbeitsspeicher zuweisen
+5. Im Java/Minecraft Untertab mehr Ram/Arbeitsspeicher zuweisen
 
 6. Im selben Tab Java Parameter hinzufügen
 	
