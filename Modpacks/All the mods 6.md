@@ -61,4 +61,4 @@
 
 21. Multiplayer anklicken und die Server-Ip einspeichern
 
-22.Joinen und Spaß haben
+22. Joinen und Spaß haben
