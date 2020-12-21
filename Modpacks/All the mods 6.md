@@ -36,6 +36,9 @@
 
 12. Download abwarten
 
+	12.5 Wenn der AT Launcher einen Fehler wirft den Launcher neustarten und einfach noch einmal probieren es zu installieren
+	(Manchmal möchte er nicht)
+
 13. Edit Mods anklicken
 
 14. Add Curse Mod anklicken
