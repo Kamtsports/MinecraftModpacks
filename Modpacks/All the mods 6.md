@@ -29,7 +29,7 @@
 
 9. All the Mods 6 suchen und neueste Version installieren
 	
-	https://www.curseforge.com/minecraft/modpacks/all-the-mods-6
+	(https://www.curseforge.com/minecraft/modpacks/all-the-mods-6)
 	
 10. Download abwarten
 
