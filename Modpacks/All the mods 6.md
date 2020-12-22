@@ -6,7 +6,7 @@
 
 3. Mit Minecraft-Account anmelden
 
-4. Settings öffnen(Zahnrad)
+4. Settings öffnen(Zahnrad) und gewünschten Speicherort einstellen
 
 5. Im Java/Minecraft Untertab mehr Ram/Arbeitsspeicher zuweisen 
 	
