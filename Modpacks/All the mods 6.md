@@ -1,13 +1,15 @@
-1. ATLauncher herunterladen und in einen Ordner packen
-	https://atlauncher.com/downloads
+1. GDLauncher herunterladen und installieren
+	
+	https://gdevs.io/
 
-2. ATLauncher öffnen
+2. GDLauncher
 
-3. Im Accounts Tab den eigenen Minecraftaccount hinzufügen
+3. Mit Minecraft-Account anmelden
 
-4. Settings Tab auswählen
+4. Settings öffnen(Zahnrad)
 
 5. Im Java/Minecraft Untertab mehr Ram/Arbeitsspeicher zuweisen 
+	
 	(8 GB sollten passen, zum Teil crashed es bei mehr)
 
 6. Im selben Tab Java Parameter hinzufügen
@@ -19,47 +21,32 @@
 	-XX:MaxGCPauseMillis=50 
 	-XX:G1HeapRegionSize=32M
 	
-	![Java Args](/images/ATM6/JavaArgs.png)
+	![Java Args](/images/ATM6/GDLauncher/JavaArgs.png)
 	
-7. Auf Save klicken
-	
-8. Instances Tab auswählen
+7. + anklicken
 
-9. Add Curse Pack anklicken
+8. Twitch auswählen
 
-10. Link in CurseForge URL Zeile einfügen
+9. All the Mods 6 suchen und neueste Version installieren
 	
 	https://www.curseforge.com/minecraft/modpacks/all-the-mods-6
 	
-	![URL](/images/ATM6/URL.png)
+10. Download abwarten
+
+11. Rechtsklick und Manage auswählen
+
+12. Mods Tab auswählen
+
+13. Add Mod anklicken
 	
-11. Add anklicken
-
-12. Download abwarten
-
-	12.5 Wenn der AT Launcher einen Fehler wirft den Launcher neustarten und einfach noch einmal probieren es zu installieren
-	(Manchmal möchte er nicht)
-
-13. Edit Mods anklicken
-
-14. Add Curse Mod anklicken
-
-15. Link zu Tetra einfügen
+14. Tetra suchen und hinzufügen
 	
-	https://www.curseforge.com/minecraft/mc-mods/tetra
-	
-16. Search anklicken
+	(Dependencies/Abhängigkeiten werden automatisch mitinstalliert)
+		
+15. Play anklicken
 
-17. Bei Tetra auf add klicken
+16. Lange warten
 
-	![Tetra](/images/ATM6/Tetra.png)
-	
-18. Dependencies mitinstallieren
+17. Multiplayer anklicken und die Server-Ip einspeichern
 
-19. Play anklicken
-
-20. Lange warten
-
-21. Multiplayer anklicken und die Server-Ip einspeichern
-
-22. Joinen und Spaß haben
+18. Joinen und Spaß haben
