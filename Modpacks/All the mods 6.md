@@ -41,7 +41,8 @@
 	
 14. Tetra suchen und hinzufügen
 	
-	(Dependencies/Abhängigkeiten werden automatisch mit installiert)
+	Dependencies/Abhängigkeiten werden automatisch mit installiert
+	Ansonsten selber mGui hinzufügen
 		
 15. Play anklicken
 
