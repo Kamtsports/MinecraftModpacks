@@ -23,7 +23,7 @@
 	
 	![Java Args](/images/ATM6/GDLauncher/JavaArgs.png)
 	
-7. + anklicken
+7. Plus anklicken
 
 8. Twitch auswählen
 
