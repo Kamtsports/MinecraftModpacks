@@ -41,7 +41,7 @@
 	
 14. Tetra suchen und hinzufügen
 	
-	(Dependencies/Abhängigkeiten werden automatisch mitinstalliert)
+	(Dependencies/Abhängigkeiten werden automatisch mit installiert)
 		
 15. Play anklicken
 
