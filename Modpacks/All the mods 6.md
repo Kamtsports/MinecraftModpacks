@@ -2,7 +2,7 @@
 	
 	https://gdevs.io/
 
-2. GDLauncher
+2. GDLauncher öffnen
 
 3. Mit Minecraft-Account anmelden
 
